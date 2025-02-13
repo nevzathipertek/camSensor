@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IS42S32800")(type "KiCad")(uri "${KIPRJMOD}/libs/IS42S32800/KiCADv6/2024-07-04_07-58-44.kicad_sym")(options "")(descr ""))
+  (lib (name "W25Q256JV")(type "KiCad")(uri "${KIPRJMOD}/libs/W25Q256JV/KiCADv6/2024-07-16_15-07-25.kicad_sym")(options "")(descr ""))
+  (lib (name "R2520_12MHZ_12PF")(type "KiCad")(uri "${KIPRJMOD}/libs/R2520_12MHZ_12PF/KiCADv6/2024-07-17_06-51-15.kicad_sym")(options "")(descr ""))
+  (lib (name "6N135")(type "KiCad")(uri "${KIPRJMOD}/libs/6N135/KiCADv6/2024-04-30_08-08-51.kicad_sym")(options "")(descr ""))
+  (lib (name "FUSE_5x20")(type "KiCad")(uri "${KIPRJMOD}/libs/FUSE_5x20/KiCADv6/2024-05-05_21-48-30.kicad_sym")(options "")(descr ""))
+  (lib (name "KF142R")(type "KiCad")(uri "${KIPRJMOD}/libs/KF142R/KiCADv6/10P.kicad_sym")(options "")(descr ""))
+  (lib (name "SWITCH12X12")(type "KiCad")(uri "${KIPRJMOD}/libs/SWITCH12X12/KiCADv6/2024-07-22_15-13-49.kicad_sym")(options "")(descr ""))
+)
